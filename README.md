@@ -1,26 +1,9 @@
 
-<!--
-  GitHub Profile README
-  Repository: https://github.com/harsh13pro/harsh13pro
--->
-
 <div align="center">
 
-  <!-- Animated typing banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=00FF99&center=true&vCenter=true&width=700&lines=Harshvardhan+Shinde;Embedded+Systems+%7C+Electronics;Automation+%7C+Software+Projects;Building+Ideas+Into+Reality" alt="Animated typing banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b2f,100:00ff9c&height=180&section=header&text=Code.%20Build.%20Automate.&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20Electronics%20%7C%20Automation&descAlignY=60&descSize=14" width="100%" />
 
-  <br/>
-
-  <img src="https://img.shields.io/badge/FOCUS-EMBEDDED%20SYSTEMS-00ff99?style=for-the-badge&labelColor=0d1117" alt="Focus: Embedded Systems" />
-  <img src="https://img.shields.io/badge/MINDSET-BUILD%20%7C%20TEST%20%7C%20IMPROVE-00ff99?style=for-the-badge&labelColor=0d1117" alt="Build, test, improve" />
-
-  <br/><br/>
-
-  <a href="https://github.com/harsh13pro">
-    <img src="https://img.shields.io/badge/GitHub-harsh13pro-181717?style=flat-square&logo=github" alt="GitHub profile" />
-  </a>
-  <img src="https://img.shields.io/badge/INTEREST-ELECTRONICS-00ff99?style=flat-square&logo=espressif&logoColor=white" alt="Electronics" />
-  <img src="https://img.shields.io/badge/INTEREST-AUTOMATION-00ff99?style=flat-square&logo=githubactions&logoColor=white" alt="Automation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=600&lines=Building+things+that+actually+work;Exploring+Embedded+Systems+%26+IoT;Electronics+%7C+Automation+%7C+Software;Learning.+Experimenting.+Improving." alt="Typing SVG" />
 
 </div>
 
@@ -28,133 +11,114 @@
 
 ## `whoami`
 
-```text
-Name       : Harshvardhan Rajendra Shinde
-Username   : harsh13pro
-Interests  : Embedded Systems, Electronics & Automation
-Approach    : Learn by building, testing and improving
-Goal        : Turn practical ideas into useful technology
+```bash
+> profile: Anonymous Developer
+> interests: Embedded Systems, Electronics, IoT
+> focus: Automation & Practical Projects
+> mindset: Learn by Building
+> status: Always Experimenting
 ```
 
-I'm interested in building technology that solves real-world problems, from microcontroller-based devices to software tools and automation systems.
+I enjoy exploring how hardware and software work together to solve real-world problems. My interests include microcontrollers, embedded systems, electronics, automation, and software development.
 
-I enjoy experimenting with electronics, exploring embedded systems, and developing practical projects that combine hardware and software.
-
-- 🔌 Exploring **ESP32 and embedded systems**
-- ⚡ Interested in electronics, hardware prototyping and communication modules
-- 🤖 Building and exploring automation tools
-- 💻 Developing software projects for practical use cases
-- 🛠️ Learning through experimentation, debugging and iteration
+- Building and experimenting with ESP32-based projects
+- Exploring IoT, sensors, and hardware-software integration
+- Developing automation tools and practical utilities
+- Learning new technologies through hands-on projects
 
 ---
 
-## `tech_stack`
+## `⚙️ Tech Stack`
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=E7352C" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-0D1117?style=for-the-badge&logo=arduino&logoColor=00FF99" alt="Embedded Systems" />
-  <img src="https://img.shields.io/badge/Electronics-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=00FF99" alt="Electronics" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/MacroDroid-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84" alt="MacroDroid automation" />
+<img src="https://skillicons.dev/icons?i=arduino,cpp,python,git,github,vscode,linux&theme=dark" />
 
 </div>
 
-> My focus is on practical implementation, not just collecting technologies.
+**Hardware & Embedded**
+- ESP32 / Microcontrollers
+- Sensors, modules & electronics
+- IoT and automation
+- Hardware-software integration
+
+**Software & Tools**
+- Python and C/C++
+- Git & GitHub
+- VS Code
+- Linux and command-line tools
 
 ---
 
-## `featured_projects`
+## `🚀 Featured Project`
 
-### 01. Find My Phone Bot
+### 📱 Find My Phone Bot
 
-**Phone-finder and automation project**
+A phone-finder automation project built around a bot and webhook-based workflows.
 
-A project combining a Flask-based web backend with Telegram and MacroDroid automation.
+- Phone-finder commands and automation
+- Webhook integration
+- Authentication and session handling
+- Designed for practical device-management workflows
 
-- Phone-related remote automation workflows
-- Authenticated access to supported actions
-- Integration with MacroDroid webhooks
-- Project repository: [View source code](https://github.com/harsh13pro/find-my-phone-bot)
-
-### 02. Embedded Systems & Electronics
-
-**Microcontroller-based experiments**
-
-Exploring ESP32-based projects, wireless communication modules, displays, sensors and hardware integration.
-
-- ESP32 prototyping
-- Electronics and module integration
-- Hardware-software experimentation
-
-[Explore my repositories](https://github.com/harsh13pro?tab=repositories)
-
-### 03. Software & Automation
-
-**Tools built around practical problems**
-
-Exploring software utilities and automation workflows that simplify repetitive tasks and connect different systems.
-
-[Browse all projects on GitHub](https://github.com/harsh13pro?tab=repositories)
+🔗 **[View Repository](https://github.com/harsh13pro/find-my-phone-bot)**
 
 ---
 
-## `github_stats`
+## `📊 GitHub Statistics`
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harsh13pro&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harsh13pro&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" />
 
-  <img width="49%" src="https://streak-stats.demolab.com?user=harsh13pro&theme=dark&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" alt="GitHub contribution streak" />
+<img height="165" src="https://streak-stats.demolab.com?user=harsh13pro&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
 
-  <br/><br/>
+</div>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh13pro&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9&langs_count=8" alt="Most used programming languages" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh13pro&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" />
 
 </div>
 
 ---
 
-## `current_mission`
-
-```python
-class Developer:
-    def __init__(self):
-        self.interests = [
-            "Embedded Systems",
-            "Electronics",
-            "Automation",
-            "Practical Software"
-        ]
-
-    def approach(self):
-        return "Build -> Test -> Debug -> Improve"
-
-
-if __name__ == "__main__":
-    me = Developer()
-    print(me.approach())
-```
-
----
-
-## `connect`
+## `📈 Contribution Graph`
 
 <div align="center">
 
-  <a href="https://github.com/harsh13pro">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-00ff99?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Follow on GitHub" />
-  </a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh13pro&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="100%" />
 
-  <br/><br/>
+</div>
 
-  <i>"Build things that work. Understand why they work. Make them better."</i>
+### `🗓️ Yearly GitHub Activity`
 
-  <br/><br/>
+<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0d1117&height=100&section=footer" width="100%" alt="Green animated-style footer" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh13pro&theme=github_dark" width="100%" />
+
+</div>
+
+---
+
+## `🎯 Current Focus`
+
+- Improving embedded systems and electronics skills
+- Building useful automation projects
+- Exploring IoT and microcontroller applications
+- Writing cleaner, more reliable code
+- Turning ideas into working prototypes
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=harsh13pro&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+**`// Think. Build. Test. Repeat.`**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:003b2f,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
